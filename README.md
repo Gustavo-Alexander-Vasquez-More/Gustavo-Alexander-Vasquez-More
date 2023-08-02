@@ -1,5 +1,6 @@
 ### Hi, I'm Gustavo 👋🧑‍💻
-![GIF](https://media.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif)
+<img src="https://giphy.com/embed/vrJbsF0hf9bWMjOUvc"/>
+
 <!--
 **Gustavo-Alexander-Vasquez-More/Gustavo-Alexander-Vasquez-More** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
