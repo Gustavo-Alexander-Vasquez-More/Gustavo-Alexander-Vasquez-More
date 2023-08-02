@@ -1,5 +1,5 @@
 ### Hi, I'm Gustavo 👋🧑‍💻
-![GIF](https://giphy.com/gifs/computer-screen-hacker-vrJbsF0hf9bWMjOUvc)
+![GIF](https://media.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif)
 <!--
 **Gustavo-Alexander-Vasquez-More/Gustavo-Alexander-Vasquez-More** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
