@@ -29,7 +29,7 @@ I'm open to collaborating on exciting projects, learning from experienced develo
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
 🌐 [Portfolio Website](https://www.your-portfolio.com)
-📧 [Email](mailto:tavovm24@hotmail.com)
+📧 [Email](mailto:tavovm24@hotmail.com):tavovm24@hotmail.com
 
 ---
 
