@@ -27,9 +27,9 @@ With a fascination for mobile app development, I work with React Native to build
 #### 📬 Contact me:
 I'm open to collaborating on exciting projects, learning from experienced developers, and contributing fresh ideas to the coding community. Feel free to reach out if you're looking for a developer who's excited to make a difference.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
 🌐 [Portfolio Website](https://www.your-portfolio.com)
-📧 [Email](mailto:youremail@example.com)
+📧 [Email](mailto:tavovm24@hotmail.com)
 
 ---
 
