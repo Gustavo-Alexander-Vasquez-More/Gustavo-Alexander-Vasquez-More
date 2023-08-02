@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content:center; align-items: center; flex-direction: column;">
+<div align="center">
 <h1>Hi, I'm Gustavo 👋🧑‍💻</h1>
 <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879" width=200/>
 </div>
