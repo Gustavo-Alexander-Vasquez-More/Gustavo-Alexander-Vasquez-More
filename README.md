@@ -5,7 +5,7 @@
 <h3>I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.</h3>
 ## Languages and Tools
 
-Here are some of the languages and tools I'm familiar with:
+Here are some of the languages and tools I'm familiar with:s
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
