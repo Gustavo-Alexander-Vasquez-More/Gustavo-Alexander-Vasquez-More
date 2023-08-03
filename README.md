@@ -3,22 +3,25 @@
   <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879" width=300/>
 
 <h3>I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.</h3>
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-- ![React Router](https://img.shields.io/badge/-React%20Router-orange?style=flat-square&logo=react-router)
-- ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-- ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-- ![JWT](https://img.shields.io/badge/-JWT-orange?style=flat-square&logo=json-web-tokens)
-- ![NPM](https://img.shields.io/badge/-NPM-red?style=flat-square&logo=npm)
-- ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-- ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
-- ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-router-original.svg" alt="React Router" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jsonwebtoken/jsonwebtoken-plain.svg" alt="JWT" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
 </div>
 
 ---
