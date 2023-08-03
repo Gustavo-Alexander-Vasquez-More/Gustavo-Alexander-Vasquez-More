@@ -3,60 +3,23 @@
   <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879" width=300/>
 
 <h3>I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.</h3>
-<div align="center">
+<div>
   <h2>Languages and Tools</h2>
-  <div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-      <p>Visual Studio Code</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-      <p>HTML5</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-      <p>CSS3</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <p>JavaScript</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      <p>Node.js</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-      <p>React</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-      <p>Redux</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-      <p>Express.js</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-      <p>MongoDB</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-      <p>Postman</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      <p>Git</p>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-      <p>GitHub</p>
-    </div>
-  </div>
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </p>  
 </div>
-
 </div>
 
 ---
