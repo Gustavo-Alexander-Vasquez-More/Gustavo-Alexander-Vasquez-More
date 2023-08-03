@@ -3,6 +3,22 @@
   <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879" width=300/>
 
 <h3>I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.</h3>
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+- ![React Router](https://img.shields.io/badge/-React%20Router-orange?style=flat-square&logo=react-router)
+- ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+- ![JWT](https://img.shields.io/badge/-JWT-orange?style=flat-square&logo=json-web-tokens)
+- ![NPM](https://img.shields.io/badge/-NPM-red?style=flat-square&logo=npm)
+- ![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku)
+- ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
 </div>
 
 ---
