@@ -7,10 +7,9 @@
   <h2>Languages and Tools</h2>
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://e7.pngegg.com/pngimages/777/788/png-clipart-logo-cpanel-brand-graphics-computer-icons-cp-logo-emblem-text-thumbnail.png" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/777/788/png-clipart-logo-cpanel-brand-graphics-computer-icons-cp-logo-emblem-text-thumbnail.png" alt="CPanel" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -22,6 +21,8 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </p>  
 </div>
 </div>
@@ -51,9 +52,3 @@ I'm open to collaborating on exciting projects, learning from experienced develo
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
 🌐 [Portfolio Website](https://www.your-portfolio.com)
 📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
-
----
-
-<!--
-**Gustavo-Alexander-Vasquez-More/Gustavo-Alexander-Vasquez-More** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
