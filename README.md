@@ -3,9 +3,6 @@
   <!-- GIF de bienvenida -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenido GIF programando" width="400"/>
 
-  <!-- Banner personalizado (puedes cambiar la URL por el tuyo propio) -->
-  <img src="https://your-custom-banner-url.com/banner.png" width="100%" alt="Banner"/>
-
   <h1>¡Hola! Soy Gustavo 👋🧑‍💻</h1>
   <h3>
     🚀 Desarrollador Fullstack | Especialista en Web & Mobile 🚀 <br/>
