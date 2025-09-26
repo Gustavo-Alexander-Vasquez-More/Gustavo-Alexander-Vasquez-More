@@ -47,7 +47,7 @@
 📚 **Estudiante de la Licenciatura en Informática** en la Universidad Nacional de La Plata (UNLP).  
 Durante mi formación he adquirido sólidos conocimientos en:
 
-- **Estructuras de datos:** listas, árboles binarios de búsqueda, pilas, colas, grafos y más.
+- **Estructuras de datos:** listas, árboles binarios de búsqueda, vectores, matrices, pilas y más.
 - **Fundamentos de la programación:** lógica, algoritmos, resolución de problemas y buenas prácticas.
 - **Programación orientada a objetos (POO):** conceptos como clases, objetos, herencia, polimorfismo, encapsulamiento y abstracción.
 - **Assembler básico:** manejo de registros, instrucciones, control de flujo y memoria gracias a los cursos de la facultad.
@@ -63,13 +63,6 @@ Desde el diseño de interfaces hasta el desarrollo de backends robustos y escala
 
 ---
 
-## 📱 Aventuras Mobile
-
-Me fascina el desarrollo de apps móviles con **React Native**.  
-Busco crear experiencias atractivas e intuitivas que hagan la vida de los usuarios más fácil y divertida.
-
----
-
 ## ⭐ Mi viaje en la programación
 
 - <b>Curiosidad infinita:</b> Cada proyecto es un universo de posibilidades. Disfruto enfrentar y resolver desafíos complejos.
@@ -81,7 +74,7 @@ Busco crear experiencias atractivas e intuitivas que hagan la vida de los usuari
 
 ## ⚡ ¿Por qué elegirme?
 
-- Formación universitaria sólida y actualizada.
+- Formación universitaria en curso, sólida y actualizada.
 - Experiencia en proyectos reales, tanto personales como académicos.
 - Capacidad para adaptarme y aprender nuevas tecnologías rápidamente.
 - Compromiso con la calidad y la mejora continua.
@@ -94,7 +87,7 @@ Estoy abierto a colaborar en proyectos desafiantes, aprender de expertos y aport
 ¿Buscas un desarrollador motivado y apasionado? ¡Hablemos!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
-- 🌐 [Mi Portfolio](https://www.your-portfolio.com)
+- 🌐 [Mi Portfolio](https://my-portfolio-delta-three-33.vercel.app/)
 - 📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
 
 ---
