@@ -5,7 +5,7 @@
 
   <h1>¡Hola! Soy Gustavo 👋🧑‍💻</h1>
   <h3>
-    🚀 Desarrollador Fullstack | Especialista en Web & Mobile 🚀 <br/>
+    🚀 Desarrollador Fullstack | Especialista en desarollo Web 🚀 <br/>
     <span>Transformando ideas en experiencias digitales memorables</span>
   </h3>
 
