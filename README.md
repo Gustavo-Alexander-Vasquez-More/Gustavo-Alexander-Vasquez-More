@@ -94,7 +94,7 @@ Estoy abierto a colaborar en proyectos desafiantes, aprender de expertos y aport
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3o6vXT6lXyXhQ6xY7W/giphy.gif" width="250" alt="Funny Coding"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250" alt="Celebration"/>
   <br/>
   <b>¡Estoy listo para crear algo increíble contigo!</b>
 </div>
