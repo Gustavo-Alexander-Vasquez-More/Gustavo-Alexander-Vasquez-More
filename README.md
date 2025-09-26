@@ -51,11 +51,9 @@ Durante mi formación he adquirido sólidos conocimientos en:
 
 - **Estructuras de datos:** listas, árboles binarios de búsqueda, vectores, matrices, pilas y más.
 - **Fundamentos de la programación:** lógica, algoritmos, resolución de problemas y buenas prácticas.
-- **Programación orientada a objetos (POO):** conceptos como clases, objetos, herencia, polimorfismo, encapsulamiento y abstracción.
-- **Assembler básico:** manejo de registros, instrucciones, control de flujo y memoria gracias a los cursos de la facultad.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_Assembly_logo.svg" alt="Assembler logo" width="40" height="40"/> Sé lo básico de assembler por la facu.
-- **Pascal:** conocimientos en programación estructurada y resolución de problemas con Pascal.  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Pascal_logo.png" alt="Pascal logo" width="40" height="40"/> Vi Pascal en la facultad.
+- **Programación orientada a objetos con JAVA (POO):** conceptos como clases, objetos, herencia, polimorfismo, encapsulamiento y abstracción.
+- **Assembler básico:** manejo de registros, instrucciones, control de flujo y memoria gracias a los cursos de la facultad.
+- **Pascal:** conocimientos en programación estructurada y resolución de problemas.
 
 Me apasiona aplicar estos conceptos en proyectos reales y desafíos técnicos. ¡Siempre con ganas de aprender más!
 
