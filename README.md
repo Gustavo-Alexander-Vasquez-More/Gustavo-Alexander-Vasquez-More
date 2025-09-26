@@ -1,25 +1,25 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/TzWcihb.gif" alt="Coder GIF" width="400"/>
+  <!-- GIF de bienvenida -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenido GIF programando" width="400"/>
 
-  <h1>Hi, I'm Gustavo 👋🧑‍💻</h1>
+  <!-- Banner personalizado (puedes cambiar la URL por el tuyo propio) -->
   <img src="https://your-custom-banner-url.com/banner.png" width="100%" alt="Banner"/>
 
+  <h1>¡Hola! Soy Gustavo 👋🧑‍💻</h1>
   <h3>
-    🚀 Fullstack Developer | Web & Mobile Specialist 🚀 <br/>
-    <span>Transforming ideas into digital experiences</span>
+    🚀 Desarrollador Fullstack | Especialista en Web & Mobile 🚀 <br/>
+    <span>Transformando ideas en experiencias digitales memorables</span>
   </h3>
 
-  <!-- Badges for technologies -->
+  <!-- Badges de tecnologías -->
   <p align="center">
-    <!-- Main stacks -->
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <!-- Others -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,43 +42,59 @@
 
 ---
 
-## 🌐 Crafting the Web
+## 🎓 Sobre mí y mi formación
 
-💡 My main goal: create intuitive, attractive and efficient web applications using the magic of the **MERN stack** and **Java/Spring Boot**.  
-I bring websites to life, from designing user-friendly interfaces to building robust, scalable backends.
+📚 **Estudiante de la Licenciatura en Informática** en la Universidad Nacional de La Plata (UNLP).  
+Durante mi formación he adquirido sólidos conocimientos en:
 
----
+- **Estructuras de datos:** listas, árboles binarios de búsqueda, pilas, colas, grafos y más.
+- **Fundamentos de la programación:** lógica, algoritmos, resolución de problemas y buenas prácticas.
+- **Programación orientada a objetos (POO):** conceptos como clases, objetos, herencia, polimorfismo, encapsulamiento y abstracción.
+- **Assembler básico:** manejo de registros, instrucciones, control de flujo y memoria gracias a los cursos de la facultad.
 
-## 📱 Mobile Adventures
-
-With a fascination for mobile app development, I work with **React Native** to build apps that deliver the best user experience.  
-I love creating intuitive and visually pleasing interfaces for mobile devices.
-
----
-
-## ⭐ My Journey
-
-- <b>Infinite Curiosity</b>  
-  Each new project is a realm of possibilities. Coding is an evolving puzzle that I love solving.
-
-- <b>Passion for Learning</b>  
-  I embrace every challenge as a chance to grow. Continuous learning keeps me motivated and engaged.
-
-- <b>Collaboration & Community</b>  
-  I thrive in teams, co-creating solutions, and sharing knowledge. The developer community inspires me.
-
-- <b>Designing Memorable Experiences</b>  
-  Technology impacts lives. I aim to create engaging, meaningful user experiences.
+Me apasiona aplicar estos conceptos en proyectos reales y desafíos técnicos. ¡Siempre con ganas de aprender más!
 
 ---
 
-## 📬 Contact Me
+## 🌐 Creando la Web
 
-I'm open to collaborating on exciting projects, learning from experienced developers, and contributing fresh ideas to the coding community.
-Feel free to reach out if you're looking for a developer who's ready to make a difference!
+💡 Mi objetivo principal es crear aplicaciones web intuitivas, atractivas y eficientes, combinando el poder de tecnologías modernas como el **MERN stack** y **Java/Spring Boot**.  
+Desde el diseño de interfaces hasta el desarrollo de backends robustos y escalables.
+
+---
+
+## 📱 Aventuras Mobile
+
+Me fascina el desarrollo de apps móviles con **React Native**.  
+Busco crear experiencias atractivas e intuitivas que hagan la vida de los usuarios más fácil y divertida.
+
+---
+
+## ⭐ Mi viaje en la programación
+
+- <b>Curiosidad infinita:</b> Cada proyecto es un universo de posibilidades. Disfruto enfrentar y resolver desafíos complejos.
+- <b>Pasión por el aprendizaje:</b> Cada reto es una oportunidad para crecer. La formación continua es mi motor.
+- <b>Colaboración y comunidad:</b> Me encanta trabajar en equipo, compartir ideas y aprender de otros desarrolladores.
+- <b>Diseñando experiencias memorables:</b> No solo es código, es crear soluciones útiles y significativas para las personas.
+
+---
+
+## ⚡ ¿Por qué elegirme?
+
+- Formación universitaria sólida y actualizada.
+- Experiencia en proyectos reales, tanto personales como académicos.
+- Capacidad para adaptarme y aprender nuevas tecnologías rápidamente.
+- Compromiso con la calidad y la mejora continua.
+
+---
+
+## 📬 ¡Conectemos!
+
+Estoy abierto a colaborar en proyectos desafiantes, aprender de expertos y aportar ideas frescas a la comunidad.  
+¿Buscas un desarrollador motivado y apasionado? ¡Hablemos!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
-- 🌐 [Portfolio Website](https://www.your-portfolio.com)
+- 🌐 [Mi Portfolio](https://www.your-portfolio.com)
 - 📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
 
 ---
@@ -87,5 +103,5 @@ Feel free to reach out if you're looking for a developer who's ready to make a d
 
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Keep Coding"/>
   <br/>
-  <b>Let's build something awesome together!</b>
+  <b>¡Estoy listo para crear algo increíble contigo!</b>
 </div>
