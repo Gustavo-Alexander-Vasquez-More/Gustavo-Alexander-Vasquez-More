@@ -1,54 +1,91 @@
-<div align="center" f>
-  <h1>Hi, I'm Gustavo 👋🧑‍💻</h1>
-  <img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/01212022-1047259374-coding-classes_scanrail.jpg?mtime=1642798879" width=300/>
+<div align="center">
 
-<h3>I'm a fullstack developer passionate about creating web and mobile solutions that make life easier and more enjoyable. Specializing in the MERN stack (MongoDB, Express.js, React, Node.js) and mobile apps with React Native, I'm excited to dive into coding challenges and create the best digital experiences.</h3>
-<div>
-  <h2>Languages and Tools</h2>
+  <img src="https://i.imgur.com/TzWcihb.gif" alt="Coder GIF" width="400"/>
+
+  <h1>Hi, I'm Gustavo 👋🧑‍💻</h1>
+  <img src="https://your-custom-banner-url.com/banner.png" width="100%" alt="Banner"/>
+
+  <h3>
+    🚀 Fullstack Developer | Web & Mobile Specialist 🚀 <br/>
+    <span>Transforming ideas into digital experiences</span>
+  </h3>
+
+  <!-- Badges for technologies -->
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" width="40" height="40"/>
-    <img src="https://e7.pngegg.com/pngimages/777/788/png-clipart-logo-cpanel-brand-graphics-computer-icons-cp-logo-emblem-text-thumbnail.png" alt="CPanel" width="40" height="40"/>
-    <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="MySQL" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+    <!-- Main stacks -->
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <!-- Others -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   </p>  
-</div>
+
+  <br/>
+
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Alexander-Vasquez-More&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Alexander-Vasquez-More&theme=radical" alt="GitHub Streak" width="420"/>
+
 </div>
 
 ---
 
-#### 🌐 Crafting the Web:
-My main goal is to create intuitive, attractive and efficient web applications using the magic of the MERN stack. I'm here to bring websites to life, from designing user-friendly interfaces to tweaking the backend to ensure smooth functionality.
+## 🌐 Crafting the Web
 
-#### 📱 Mobile Adventures:
-With a fascination for mobile app development, I work with React Native to build apps that provide the best experience for users. My goal is to bring intuitive and visually pleasing interfaces to mobile devices.
+💡 My main goal: create intuitive, attractive and efficient web applications using the magic of the **MERN stack** and **Java/Spring Boot**.  
+I bring websites to life, from designing user-friendly interfaces to building robust, scalable backends.
 
-#### 🌟 My Journey:
--Infinite Curiosity: Each new project is a realm of possibilities waiting to be explored. I thrive on unraveling challenges and mastering them. Coding, to me, is an unending and ever-evolving puzzle.
+---
 
--Passion for Learning: My enthusiasm for code is boundless. I embrace every challenge as an opportunity to expand my knowledge and skill set. Continuous learning keeps me engaged and excited.
+## 📱 Mobile Adventures
 
--Collaboration and Community: Collaboration is at the heart of my approach. I enjoy working in teams, sharing ideas, and co-creating solutions. The developer community is a constant source of inspiration and growth.
+With a fascination for mobile app development, I work with **React Native** to build apps that deliver the best user experience.  
+I love creating intuitive and visually pleasing interfaces for mobile devices.
 
--Designing Memorable Experiences: Tech solutions are more than just code; they impact users' lives. I aim to create engaging user experiences, making every interaction meaningful and memorable.
+---
 
--In essence, each line of code I write is a step toward mastering software development. I look forward to the road ahead, filled with opportunities to learn and grow in this dynamic industry.
+## ⭐ My Journey
 
-#### 📬 Contact me:
-I'm open to collaborating on exciting projects, learning from experienced developers, and contributing fresh ideas to the coding community. Feel free to reach out if you're looking for a developer who's excited to make a difference.
+- <b>Infinite Curiosity</b>  
+  Each new project is a realm of possibilities. Coding is an evolving puzzle that I love solving.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
-🌐 [Portfolio Website](https://www.your-portfolio.com)
-📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
+- <b>Passion for Learning</b>  
+  I embrace every challenge as a chance to grow. Continuous learning keeps me motivated and engaged.
+
+- <b>Collaboration & Community</b>  
+  I thrive in teams, co-creating solutions, and sharing knowledge. The developer community inspires me.
+
+- <b>Designing Memorable Experiences</b>  
+  Technology impacts lives. I aim to create engaging, meaningful user experiences.
+
+---
+
+## 📬 Contact Me
+
+I'm open to collaborating on exciting projects, learning from experienced developers, and contributing fresh ideas to the coding community.
+Feel free to reach out if you're looking for a developer who's ready to make a difference!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
+- 🌐 [Portfolio Website](https://www.your-portfolio.com)
+- 📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
+
+---
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Keep Coding"/>
+  <br/>
+  <b>Let's build something awesome together!</b>
+</div>
