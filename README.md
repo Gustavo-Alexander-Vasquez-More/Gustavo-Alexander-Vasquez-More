@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GIF de bienvenida -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenido GIF programando" width="400"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMwbDRoOGZmM2pwZnh2Njg1aXYzMDdlMmp2b21zNmF0Nm43aDF0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif)" alt="Bienvenido GIF programando" width="400"/>
 
   <h1>¡Hola! Soy Gustavo 👋🧑‍💻</h1>
   <h3>
