@@ -50,7 +50,7 @@
     <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=CADP-UNLP" />
     </a>
-    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio2">
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Taller-de-Programacion-UNLP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio2" />
     </a>
     <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio3">
