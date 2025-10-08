@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- GIF de bienvenida -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMwbDRoOGZmM2pwZnh2Njg1aXYzMDdlMmp2b21zNmF0Nm43aDF0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Bienvenido GIF programando" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMwbDRoOGZmM2pwZnh2Njg1aXYzMDdlMmp2b21zNmF0Nm43aDF0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="Bienvenido GIF programando" width="350"/>
 
   <h1>¡Hola! Soy Gustavo 👋🧑‍💻</h1>
   <h3>
-    🚀 Desarrollador Fullstack | Especialista en desarollo Web 🚀 <br/>
+    🚀 Desarrollador Fullstack | Especialista en Desarrollo Web 🚀 <br/>
     <span>Transformando ideas en experiencias digitales memorables</span>
   </h3>
 
@@ -30,21 +30,36 @@
     <img src="https://img.shields.io/badge/Pascal-0D5AA7?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal"/>
   </p>  
 
-  <br/>
+</div>
 
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Alexander-Vasquez-More&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Alexander-Vasquez-More&theme=radical" alt="GitHub Streak" width="420"/>
-  <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP.git">
-      <img src="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP.git" />
-    </a>
-    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras.git">
-      <img src="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras.git" />
-    </a>
-    <!-- Agrega más cards aquí -->
-  </div>
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Alexander-Vasquez-More&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Alexander-Vasquez-More&theme=radical" alt="GitHub Streak" width="400"/>
+</div>
+
+---
+
+## 📁 Repositorios Destacados
+
+<div align="center">
+
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP" target="_blank">
+    <img src="https://img.shields.io/badge/CADP--UNLP-blue?style=for-the-badge&logo=github" alt="CADP-UNLP"/>
+  </a>
+  <br>
+  <span>Ejercicios y proyectos de Algoritmos y Estructuras de Datos - UNLP</span>
+  <br><br>
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras" target="_blank">
+    <img src="https://img.shields.io/badge/ArquitecturaDeComputadoras-green?style=for-the-badge&logo=github" alt="ArquitecturaDeComputadoras"/>
+  </a>
+  <br>
+  <span>Apuntes, códigos y ejercicios sobre arquitectura de computadoras y ensamblador</span>
+  
+  <!-- Agrega más repositorios aquí siguiendo el mismo patrón -->
 </div>
 
 ---
@@ -56,9 +71,9 @@ Durante mi formación he adquirido sólidos conocimientos en:
 
 - **Estructuras de datos:** listas, árboles binarios de búsqueda, vectores, matrices, pilas y más.
 - **Fundamentos de la programación:** lógica, algoritmos, resolución de problemas y buenas prácticas.
-- **Programación orientada a objetos con JAVA (POO):** conceptos como clases, objetos, herencia, polimorfismo, encapsulamiento y abstracción.
-- **Assembler básico:** manejo de registros, instrucciones, control de flujo y memoria gracias a los cursos de la facultad.
-- **Pascal:** conocimientos en programación estructurada y resolución de problemas.
+- **Programación orientada a objetos con JAVA (POO):** clases, objetos, herencia, polimorfismo, encapsulamiento, abstracción.
+- **Assembler básico:** registros, instrucciones, control de flujo y memoria.
+- **Pascal:** programación estructurada y resolución de problemas.
 
 Me apasiona aplicar estos conceptos en proyectos reales y desafíos técnicos. ¡Siempre con ganas de aprender más!
 
@@ -66,42 +81,30 @@ Me apasiona aplicar estos conceptos en proyectos reales y desafíos técnicos. �
 
 ## 🌐 Creando la Web
 
-💡 Mi objetivo principal es crear aplicaciones web intuitivas, atractivas y eficientes, combinando el poder de tecnologías modernas como el **MERN stack** y **Java/Spring Boot**.  
+💡 Mi objetivo principal: crear aplicaciones web intuitivas, atractivas y eficientes, combinando el poder de tecnologías modernas como el **MERN stack** y **Java/Spring Boot**.  
 Desde el diseño de interfaces hasta el desarrollo de backends robustos y escalables.
 
 ---
 
 ## ⭐ Mi viaje en la programación
 
-- <b>Curiosidad infinita:</b> Cada proyecto es un universo de posibilidades. Disfruto enfrentar y resolver desafíos complejos.
-- <b>Pasión por el aprendizaje:</b> Cada reto es una oportunidad para crecer. La formación continua es mi motor.
-- <b>Colaboración y comunidad:</b> Me encanta trabajar en equipo, compartir ideas y aprender de otros desarrolladores.
-- <b>Diseñando experiencias memorables:</b> No solo es código, es crear soluciones útiles y significativas para las personas.
+- **Curiosidad infinita:** Cada proyecto es un universo de posibilidades.
+- **Pasión por el aprendizaje:** Cada reto es una oportunidad para crecer.
+- **Colaboración y comunidad:** Me encanta trabajar en equipo y compartir ideas.
+- **Diseñando experiencias memorables:** No solo es código, es crear soluciones útiles y significativas.
 
 ---
 
 ## ⚡ ¿Por qué elegirme?
 
-- Formación universitaria en curso, sólida y actualizada.
-- Experiencia en proyectos reales, tanto personales como académicos.
-- Capacidad para adaptarme y aprender nuevas tecnologías rápidamente.
-- Compromiso con la calidad y la mejora continua.
+- Formación universitaria en curso y actualizada.
+- Experiencia en proyectos reales, personales y académicos.
+- Capacidad para aprender nuevas tecnologías rápidamente.
+- Compromiso con la calidad y mejora continua.
 
 ---
 
 ## 📬 ¡Conectemos!
 
 Estoy abierto a colaborar en proyectos desafiantes, aprender de expertos y aportar ideas frescas a la comunidad.  
-¿Buscas un desarrollador motivado y apasionado? ¡Hablemos!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-alexander-v%C3%A1squez-more-94b2b923a/)
-- 🌐 [Mi Portfolio](https://my-portfolio-delta-three-33.vercel.app/)
-- 📧 [Email](mailto:tavovm24@hotmail.com): tavovm24@hotmail.com
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3FlYnY3eWt6OWY1cHdudzBwdzZoOWZpYzQzaGZncjZneXh3ZXo2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R3S6MfUoKvBVS/giphy.gif" width="250" alt="Celebration"/>
-  <br/>
-  <b>¡Estoy listo para crear algo increíble contigo!</b>
-</div>
+¿Buscas un desarrollador motivado y apasionado
