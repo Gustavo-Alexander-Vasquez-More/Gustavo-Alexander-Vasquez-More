@@ -53,10 +53,15 @@
     <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Taller-de-Programacion-UNLP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Taller-de-Programacion-UNLP" />
     </a>
-    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio3" />
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=ArquitecturaDeComputadoras" />
     </a>
-    <!-- Puedes agregar más repositorios aquí -->
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/pre-entregaTechLab.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=pre-entregaTechLab" />
+    </a>
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/RestoQR_API.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=RestoQR_API" />
+    </a>
   </div>
 </div>
 
