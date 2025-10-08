@@ -35,7 +35,19 @@
   <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Alexander-Vasquez-More&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Alexander-Vasquez-More&theme=radical" alt="GitHub Streak" width="420"/>
-  - [Repositorio 1](https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio1)
+  <div align="center">
+  
+  <!-- Card para Repositorio 1 -->
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio1" />
+  </a>
+  
+  <!-- Card para Repositorio 2 -->
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio2" />
+  </a>
+  
+</div>
 </div>
 
 ---
