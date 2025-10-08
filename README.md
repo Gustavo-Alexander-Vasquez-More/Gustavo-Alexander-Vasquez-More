@@ -62,6 +62,9 @@
     <a href="https://github.com/Gustavo-Alexander-Vasquez-More/RestoQR_API.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=RestoQR_API" />
     </a>
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/catalogo_rentame.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=catalogo_rentame" />
+    </a>
   </div>
 </div>
 
