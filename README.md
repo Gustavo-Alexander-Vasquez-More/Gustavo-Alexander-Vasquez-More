@@ -43,23 +43,35 @@
 
 ---
 
-## 📁 Repositorios Destacados
-
 <div align="center">
 
-  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP" target="_blank">
-    <img src="https://img.shields.io/badge/CADP--UNLP-blue?style=for-the-badge&logo=github" alt="CADP-UNLP"/>
-  </a>
-  <br>
-  <span>Ejercicios y proyectos de Algoritmos y Estructuras de Datos - UNLP</span>
-  <br><br>
-  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras" target="_blank">
-    <img src="https://img.shields.io/badge/ArquitecturaDeComputadoras-green?style=for-the-badge&logo=github" alt="ArquitecturaDeComputadoras"/>
-  </a>
-  <br>
-  <span>Apuntes, códigos y ejercicios sobre arquitectura de computadoras y ensamblador</span>
-  
-  <!-- Agrega más repositorios aquí siguiendo el mismo patrón -->
+  <h2>Primer año</h2>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
+    <!-- Card CADP -->
+    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 0 6px #321c50;">
+      <b style="color:#b38aff;">CADP</b>
+      <p style="font-size:0.95em;">Prácticas resueltas de Conceptos de Algoritmos, Datos y Programas (UNLP).</p>
+      <span>🟡 Pascal &nbsp; ⭐ 18 &nbsp; 📁 <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP">Ver repo</a></span>
+    </div>
+    <!-- Card ArquitecturaDeComputadoras -->
+    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 0 6px #321c50;">
+      <b style="color:#b38aff;">ArquitecturaDeComputadoras</b>
+      <p style="font-size:0.95em;">Prácticas y ejercicios sobre Arquitectura de Computadoras y Assembler.</p>
+      <span>🟤 Assembly &nbsp; ⭐ 8 &nbsp; 📁 <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras">Ver repo</a></span>
+    </div>
+    <!-- Puedes agregar más cards aquí -->
+  </div>
+
+  <h2>Segundo año</h2>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
+    <!-- Ejemplo Card de un proyecto hipotético -->
+    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 0 6px #321c50;">
+      <b style="color:#b38aff;">POO-Java</b>
+      <p style="font-size:0.95em;">Ejercicios prácticos de Programación Orientada a Objetos.</p>
+      <span>🔵 Java &nbsp; ⭐ 22 &nbsp; 📁 <a href="#">Ver repo</a></span>
+    </div>
+    <!-- Agrega más cards según tus materias/repositorios -->
+  </div>
 </div>
 
 ---
