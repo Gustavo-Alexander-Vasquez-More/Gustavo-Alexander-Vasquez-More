@@ -46,19 +46,18 @@
 ## 🚩 Mis repositorios destacados
 
 <div align="center">
-  
-  <!-- Card para Repositorio 1 -->
-  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP.git">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  </a>
-  
-  <!-- Card para Repositorio 2 -->
-  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio2" />
-  </a>
-  
-</div>
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=CADP-UNLP" />
+    </a>
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio2" />
+    </a>
+    <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio3" />
+    </a>
+    <!-- Puedes agregar más repositorios aquí -->
+  </div>
 </div>
 
 ---
