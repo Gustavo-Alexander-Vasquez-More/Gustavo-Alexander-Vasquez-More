@@ -49,7 +49,7 @@
   
   <!-- Card para Repositorio 1 -->
   <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio1" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </a>
   
   <!-- Card para Repositorio 2 -->
