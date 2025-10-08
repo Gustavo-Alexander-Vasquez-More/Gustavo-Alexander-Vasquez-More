@@ -43,35 +43,21 @@
 
 ---
 
+## 🚩 Mis repositorios destacados
+
 <div align="center">
-
-  <h2>Primer año</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
-    <!-- CADP Card -->
-    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 2px 8px #321c50;">
-      <b style="color:#b38aff; font-size:1.2em;">CADP</b>
-      <p style="font-size:0.96em; color:#eee;">Conceptos de Algoritmos, Datos y Programas (UNLP).<br><i>Prácticas resueltas y ejercicios.</i></p>
-      <span>🟡 <b>Pascal</b> &nbsp; ⭐ <b>18</b> &nbsp; 📁 <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP" style="color:#b38aff;">Ver repo</a></span>
-    </div>
-    <!-- ArquitecturaDeComputadoras Card -->
-    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 2px 8px #321c50;">
-      <b style="color:#b38aff; font-size:1.2em;">ArquitecturaDeComputadoras</b>
-      <p style="font-size:0.96em; color:#eee;">Arquitectura de Computadoras y Assembler.<br><i>Prácticas y ejercicios.</i></p>
-      <span>🟤 <b>Assembly</b> &nbsp; ⭐ <b>8</b> &nbsp; 📁 <a href="https://github.com/Gustavo-Alexander-Vasquez-More/ArquitecturaDeComputadoras" style="color:#b38aff;">Ver repo</a></span>
-    </div>
-    <!-- Más cards aquí -->
-  </div>
-
-  <h2>Segundo año</h2>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
-    <!-- POO-Java Card -->
-    <div style="background:#23213d; border-radius:12px; padding:20px; min-width:220px; max-width:260px; margin:6px; box-shadow:0 2px 8px #321c50;">
-      <b style="color:#b38aff; font-size:1.2em;">POO-Java</b>
-      <p style="font-size:0.96em; color:#eee;">Programación Orientada a Objetos.<br><i>Ejercicios prácticos en Java.</i></p>
-      <span>🔵 <b>Java</b> &nbsp; ⭐ <b>22</b> &nbsp; 📁 <a href="#" style="color:#b38aff;">Ver repo</a></span>
-    </div>
-    <!-- Más cards aquí -->
-  </div>
+  
+  <!-- Card para Repositorio 1 -->
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio1" />
+  </a>
+  
+  <!-- Card para Repositorio 2 -->
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio2" />
+  </a>
+  
+</div>
 
 </div>
 
