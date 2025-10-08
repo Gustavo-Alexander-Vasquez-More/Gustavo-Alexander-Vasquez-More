@@ -48,7 +48,7 @@
 <div align="center">
   
   <!-- Card para Repositorio 1 -->
-  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/Repositorio1">
+  <a href="https://github.com/Gustavo-Alexander-Vasquez-More/CADP-UNLP.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Alexander-Vasquez-More&repo=Repositorio1" />
   </a>
   
